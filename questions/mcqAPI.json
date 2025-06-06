@@ -1,650 +1,901 @@
 {
   "success": true,
   "data": {
-    "languages": ["Hindi", "English", "Bangle", "Marathi", "Telugu", "Tamil", "Gujarati", "Urdu", "Kannada", "Odia", "Malayalam"],
+    "languages": [
+      "Hindi",
+      "English",
+      "Bangle",
+      "Marathi",
+      "Telugu",
+      "Tamil",
+      "Gujarati",
+      "Urdu",
+      "Kannada",
+      "Odia",
+      "Malayalam"
+    ],
     "questions": {
-       "Hindi": [
-      {
-        "no": 1,
-        "question": {
-          "text": "प्रश्न: आदेश देने वाले अनिवार्य संकेत अधिकतर कहाँ हैं?",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "लाल/नीले वृत्त", "image": ""},
-          {"text": "लाल त्रिकोण", "image": ""},
-          {"text": "आधार त्रिकोण", "image": ""},
-        ],
-        "answer": {"text": "लाल/नीले वृत्त", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "प्र. यह चिन्ह दर्शाता है ?",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "रुकना", "image": ""},
-          {"text": "पार्किंग नहीं", "image": ""},
-          {"text": "आगे अस्पताल", "image": ""},
-        ],
-        "answer": {"text": "रुकना", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "प्रश्न: कौन सा चिन्ह रुकने को दर्शाता है?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+      "Hindi": [
+        {
+          "no": 1,
+          "question": {
+            "text": "प्रश्न: आदेश देने वाले अनिवार्य संकेत अधिकतर कहाँ हैं?",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "लाल/नीले वृत्त",
+              "image": ""
+            },
+            {
+              "text": "लाल त्रिकोण",
+              "image": ""
+            },
+            {
+              "text": "आधार त्रिकोण",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "लाल/नीले वृत्त",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "प्र. यह चिन्ह दर्शाता है ?",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "रुकना",
+              "image": ""
+            },
+            {
+              "text": "पार्किंग नहीं",
+              "image": ""
+            },
+            {
+              "text": "आगे अस्पताल",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "रुकना",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "प्रश्न: कौन सा चिन्ह रुकने को दर्शाता है?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "English": [
-      {
-        "no": 1,
-        "question": {
-          "text": "Q. The mandatory signs giving orders are mostly in.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "Red / Blue circles", "image": ""},
-          {"text": "Red Triangles", "image": ""},
-          {"text": "Base triangles", "image": ""},
-        ],
-        "answer": {"text": "Red / Blue circles", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "Q. This sign represents.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "Stop", "image": ""},
-          {"text": "No parking", "image": ""},
-          {"text": "Hospital ahead", "image": ""},
-        ],
-        "answer": {"text": "Stop", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "Q. Which Sign denotes Stop?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "English": [
+        {
+          "no": 1,
+          "question": {
+            "text": "Q. The mandatory signs giving orders are mostly in.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "Red / Blue circles",
+              "image": ""
+            },
+            {
+              "text": "Red Triangles",
+              "image": ""
+            },
+            {
+              "text": "Base triangles",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "Red / Blue circles",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "Q. This sign represents.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "Stop",
+              "image": ""
+            },
+            {
+              "text": "No parking",
+              "image": ""
+            },
+            {
+              "text": "Hospital ahead",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "Stop",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "Q. Which Sign denotes Stop?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Bangle": [
-      {
-        "no": 1,
-        "question": {
-          "text":
-              "প্র: আদেশ প্রদানকারী বাধ্যতামূলক চিহ্নগুলি বেশিরভাগই এখানে থাকে।",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "লাল/নীল বৃত্ত", "image": ""},
-          {"text": "লাল ত্রিভুজ", "image": ""},
-          {"text": "ভিত্তি ত্রিভুজ", "image": ""},
-        ],
-        "answer": {"text": "লাল/নীল বৃত্ত", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "প্র: এই চিহ্নটি প্রতিনিধিত্ব করে।",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "থামো", "image": ""},
-          {"text": "পার্কিং নেই", "image": ""},
-          {"text": "সামনে হাসপাতাল", "image": ""},
-        ],
-        "answer": {"text": "থামো", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "প্র: কোন চিহ্নটি 'থামুন' নির্দেশ করে?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Bangle": [
+        {
+          "no": 1,
+          "question": {
+            "text": "প্র: আদেশ প্রদানকারী বাধ্যতামূলক চিহ্নগুলি বেশিরভাগই এখানে থাকে।",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "লাল/নীল বৃত্ত",
+              "image": ""
+            },
+            {
+              "text": "লাল ত্রিভুজ",
+              "image": ""
+            },
+            {
+              "text": "ভিত্তি ত্রিভুজ",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "লাল/নীল বৃত্ত",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "প্র: এই চিহ্নটি প্রতিনিধিত্ব করে।",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "থামো",
+              "image": ""
+            },
+            {
+              "text": "পার্কিং নেই",
+              "image": ""
+            },
+            {
+              "text": "সামনে হাসপাতাল",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "থামো",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "প্র: কোন চিহ্নটি 'থামুন' নির্দেশ করে?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Marathi": [
-      {
-        "no": 1,
-        "question": {
-          "text": "प्रश्न. ऑर्डर देणारे अनिवार्य फलक बहुतेक मध्ये आहेत.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "लाल / निळी मंडळे", "image": ""},
-          {"text": "लाल त्रिकोण", "image": ""},
-          {"text": "मूळ त्रिकोण", "image": ""},
-        ],
-        "answer": {"text": "लाल / निळी मंडळे", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "प्रश्न: हे चिन्ह दर्शवते.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "थांबा", "image": ""},
-          {"text": "पार्किंग नाही", "image": ""},
-          {"text": "पुढे हॉस्पिटल", "image": ""},
-        ],
-        "answer": {"text": "थांबा", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "प्रश्न: थांबा असे कोणते चिन्ह दर्शवते?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Marathi": [
+        {
+          "no": 1,
+          "question": {
+            "text": "प्रश्न. ऑर्डर देणारे अनिवार्य फलक बहुतेक मध्ये आहेत.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "लाल / निळी मंडळे",
+              "image": ""
+            },
+            {
+              "text": "लाल त्रिकोण",
+              "image": ""
+            },
+            {
+              "text": "मूळ त्रिकोण",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "लाल / निळी मंडळे",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "प्रश्न: हे चिन्ह दर्शवते.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "थांबा",
+              "image": ""
+            },
+            {
+              "text": "पार्किंग नाही",
+              "image": ""
+            },
+            {
+              "text": "पुढे हॉस्पिटल",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "थांबा",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "प्रश्न: थांबा असे कोणते चिन्ह दर्शवते?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Telugu": [
-      {
-        "no": 1,
-        "question": {
-          "text": "ప్ర. ఆదేశాలు ఇచ్చే తప్పనిసరి సంకేతాలు ఎక్కువగా ఉంటాయి.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "ఎరుపు / నీలం వృత్తాలు", "image": ""},
-          {"text": "ఎరుపు త్రిభుజాలు", "image": ""},
-          {"text": "మూల త్రిభుజాలు", "image": ""},
-        ],
-        "answer": {"text": "ఎరుపు / నీలం వృత్తాలు", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "ప్ర. ఈ గుర్తు సూచిస్తుంది.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "ఆపు", "image": ""},
-          {"text": "పార్కింగ్ లేదు", "image": ""},
-          {"text": "ముందు ఆసుపత్రి", "image": ""},
-        ],
-        "answer": {"text": "ఆపు", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "ప్ర. ఏ గుర్తు ఆపును సూచిస్తుంది?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Telugu": [
+        {
+          "no": 1,
+          "question": {
+            "text": "ప్ర. ఆదేశాలు ఇచ్చే తప్పనిసరి సంకేతాలు ఎక్కువగా ఉంటాయి.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "ఎరుపు / నీలం వృత్తాలు",
+              "image": ""
+            },
+            {
+              "text": "ఎరుపు త్రిభుజాలు",
+              "image": ""
+            },
+            {
+              "text": "మూల త్రిభుజాలు",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "ఎరుపు / నీలం వృత్తాలు",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "ప్ర. ఈ గుర్తు సూచిస్తుంది.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "ఆపు",
+              "image": ""
+            },
+            {
+              "text": "పార్కింగ్ లేదు",
+              "image": ""
+            },
+            {
+              "text": "ముందు ఆసుపత్రి",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "ఆపు",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "ప్ర. ఏ గుర్తు ఆపును సూచిస్తుంది?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Tamil": [
-      {
-        "no": 1,
-        "question": {
-          "text":
-              "கே. உத்தரவுகளை வழங்கும் கட்டாய அடையாளங்கள் பெரும்பாலும் உள்ளே உள்ளன.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "சிவப்பு / நீல வட்டங்கள்", "image": ""},
-          {"text": "சிவப்பு முக்கோணங்கள்", "image": ""},
-          {"text": "அடிப்படை முக்கோணங்கள்", "image": ""},
-        ],
-        "answer": {"text": "சிவப்பு / நீல வட்டங்கள்", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "கே. இந்த அடையாளம் குறிக்கிறது.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "நிறுத்து", "image": ""},
-          {"text": "பார்க்கிங் இல்லை", "image": ""},
-          {"text": "முன்னால் மருத்துவமனை", "image": ""},
-        ],
-        "answer": {"text": "நிறுத்து", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "கே. எந்த அடையாளம் நிறுத்தத்தைக் குறிக்கிறது?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Tamil": [
+        {
+          "no": 1,
+          "question": {
+            "text": "கே. உத்தரவுகளை வழங்கும் கட்டாய அடையாளங்கள் பெரும்பாலும் உள்ளே உள்ளன.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "சிவப்பு / நீல வட்டங்கள்",
+              "image": ""
+            },
+            {
+              "text": "சிவப்பு முக்கோணங்கள்",
+              "image": ""
+            },
+            {
+              "text": "அடிப்படை முக்கோணங்கள்",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "சிவப்பு / நீல வட்டங்கள்",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "கே. இந்த அடையாளம் குறிக்கிறது.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "நிறுத்து",
+              "image": ""
+            },
+            {
+              "text": "பார்க்கிங் இல்லை",
+              "image": ""
+            },
+            {
+              "text": "முன்னால் மருத்துவமனை",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "நிறுத்து",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "கே. எந்த அடையாளம் நிறுத்தத்தைக் குறிக்கிறது?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Gujarati": [
-      {
-        "no": 1,
-        "question": {
-          "text": "પ્ર. ઓર્ડર આપતા ફરજિયાત ચિહ્નો મોટે ભાગે અંદર હોય છે.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "લાલ / વાદળી વર્તુળો", "image": ""},
-          {"text": "લાલ ત્રિકોણ", "image": ""},
-          {"text": "આધાર ત્રિકોણ", "image": ""},
-        ],
-        "answer": {"text": "લાલ / વાદળી વર્તુળો", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "પ્ર. આ ચિહ્ન દર્શાવે છે.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "રોકો", "image": ""},
-          {"text": "પાર્કિંગ નથી", "image": ""},
-          {"text": "આગળ હોસ્પિટલ", "image": ""},
-        ],
-        "answer": {"text": "રોકો", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "પ્ર. કયું ચિહ્ન 'સ્ટોપ' દર્શાવે છે?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Gujarati": [
+        {
+          "no": 1,
+          "question": {
+            "text": "પ્ર. ઓર્ડર આપતા ફરજિયાત ચિહ્નો મોટે ભાગે અંદર હોય છે.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "લાલ / વાદળી વર્તુળો",
+              "image": ""
+            },
+            {
+              "text": "લાલ ત્રિકોણ",
+              "image": ""
+            },
+            {
+              "text": "આધાર ત્રિકોણ",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "લાલ / વાદળી વર્તુળો",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "પ્ર. આ ચિહ્ન દર્શાવે છે.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "રોકો",
+              "image": ""
+            },
+            {
+              "text": "પાર્કિંગ નથી",
+              "image": ""
+            },
+            {
+              "text": "આગળ હોસ્પિટલ",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "રોકો",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "પ્ર. કયું ચિહ્ન 'સ્ટોપ' દર્શાવે છે?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Urdu": [
-      {
-        "no": 1,
-        "question": {
-          "text": "Q. آرڈر دینے والے لازمی نشانات زیادہ تر میں ہیں۔",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "سرخ/نیلے حلقے", "image": ""},
-          {"text": "سرخ مثلث", "image": ""},
-          {"text": "بنیادی مثلث", "image": ""},
-        ],
-        "answer": {"text": "سرخ/نیلے حلقے", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "Q. یہ نشان ظاہر کرتا ہے۔",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "رک جاؤ", "image": ""},
-          {"text": "کوئی پارکنگ نہیں۔", "image": ""},
-          {"text": "آگے ہسپتال", "image": ""},
-        ],
-        "answer": {"text": "رک جاؤ", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "Q. کون سا نشان سٹاپ کو ظاہر کرتا ہے؟",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Urdu": [
+        {
+          "no": 1,
+          "question": {
+            "text": "Q. آرڈر دینے والے لازمی نشانات زیادہ تر میں ہیں۔",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "سرخ/نیلے حلقے",
+              "image": ""
+            },
+            {
+              "text": "سرخ مثلث",
+              "image": ""
+            },
+            {
+              "text": "بنیادی مثلث",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "سرخ/نیلے حلقے",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "Q. یہ نشان ظاہر کرتا ہے۔",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "رک جاؤ",
+              "image": ""
+            },
+            {
+              "text": "کوئی پارکنگ نہیں۔",
+              "image": ""
+            },
+            {
+              "text": "آگے ہسپتال",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "رک جاؤ",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "Q. کون سا نشان سٹاپ کو ظاہر کرتا ہے؟",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Kannada": [
-      {
-        "no": 1,
-        "question": {
-          "text":
-              "ಪ್ರಶ್ನೆ. ಆದೇಶಗಳನ್ನು ನೀಡುವ ಕಡ್ಡಾಯ ಚಿಹ್ನೆಗಳು ಹೆಚ್ಚಾಗಿ ಇರುತ್ತವೆ.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "ಕೆಂಪು / ನೀಲಿ ವಲಯಗಳು", "image": ""},
-          {"text": "ಕೆಂಪು ತ್ರಿಕೋನಗಳು", "image": ""},
-          {"text": "ಮೂಲ ತ್ರಿಕೋನಗಳು", "image": ""},
-        ],
-        "answer": {"text": "ಕೆಂಪು / ನೀಲಿ ವಲಯಗಳು", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "Q. This sign represents.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "ನಿಲ್ಲಿಸು", "image": ""},
-          {"text": "ಪಾರ್ಕಿಂಗ್ ಇಲ್ಲ", "image": ""},
-          {"text": "ಮುಂದೆ ಆಸ್ಪತ್ರೆ", "image": ""},
-        ],
-        "answer": {"text": "ನಿಲ್ಲಿಸು", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "ಪ್ರಶ್ನೆ. ಯಾವ ಚಿಹ್ನೆಯು ನಿಲ್ಲಿಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Kannada": [
+        {
+          "no": 1,
+          "question": {
+            "text": "ಪ್ರಶ್ನೆ. ಆದೇಶಗಳನ್ನು ನೀಡುವ ಕಡ್ಡಾಯ ಚಿಹ್ನೆಗಳು ಹೆಚ್ಚಾಗಿ ಇರುತ್ತವೆ.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "ಕೆಂಪು / ನೀಲಿ ವಲಯಗಳು",
+              "image": ""
+            },
+            {
+              "text": "ಕೆಂಪು ತ್ರಿಕೋನಗಳು",
+              "image": ""
+            },
+            {
+              "text": "ಮೂಲ ತ್ರಿಕೋನಗಳು",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "ಕೆಂಪು / ನೀಲಿ ವಲಯಗಳು",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "Q. This sign represents.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "ನಿಲ್ಲಿಸು",
+              "image": ""
+            },
+            {
+              "text": "ಪಾರ್ಕಿಂಗ್ ಇಲ್ಲ",
+              "image": ""
+            },
+            {
+              "text": "ಮುಂದೆ ಆಸ್ಪತ್ರೆ",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "ನಿಲ್ಲಿಸು",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "ಪ್ರಶ್ನೆ. ಯಾವ ಚಿಹ್ನೆಯು ನಿಲ್ಲಿಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Odia": [
-      {
-        "no": 1,
-        "question": {
-          "text": "ପ୍ର. ଆଦେଶ ଦେଉଥିବା ବାଧ୍ୟତାମୂଳକ ସଙ୍କେତଗୁଡ଼ିକ ଅଧିକାଂଶରେ ଅଛି।",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "ନାଲି / ନୀଳ ବୃତ୍ତ |", "image": ""},
-          {"text": "ଲାଲ୍ ତ୍ରିରଙ୍ଗା |", "image": ""},
-          {"text": "ମୂଳ ତ୍ରିରଙ୍ଗା |", "image": ""},
-        ],
-        "answer": {"text": "ନାଲି / ନୀଳ ବୃତ୍ତ |", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "ପ୍ର. ଏହି ଚିହ୍ନ ପ୍ରତିନିଧିତ୍ୱ କରେ।",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "ବନ୍ଦ କର |", "image": ""},
-          {"text": "ପାର୍କିଂ ନାହିଁ |", "image": ""},
-          {"text": "ଆଗରେ ଡାକ୍ତରଖାନା |", "image": ""},
-        ],
-        "answer": {"text": "Stop", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "ପ୍ର: କେଉଁ ଚିହ୍ନ ବନ୍ଦକୁ ସୂଚିତ କରେ?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Odia": [
+        {
+          "no": 1,
+          "question": {
+            "text": "ପ୍ର. ଆଦେଶ ଦେଉଥିବା ବାଧ୍ୟତାମୂଳକ ସଙ୍କେତଗୁଡ଼ିକ ଅଧିକାଂଶରେ ଅଛି।",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "ନାଲି / ନୀଳ ବୃତ୍ତ |",
+              "image": ""
+            },
+            {
+              "text": "ଲାଲ୍ ତ୍ରିରଙ୍ଗା |",
+              "image": ""
+            },
+            {
+              "text": "ମୂଳ ତ୍ରିରଙ୍ଗା |",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "ନାଲି / ନୀଳ ବୃତ୍ତ |",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "ପ୍ର. ଏହି ଚିହ୍ନ ପ୍ରତିନିଧିତ୍ୱ କରେ।",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
+          "options": [
+            {
+              "text": "ବନ୍ଦ କର |",
+              "image": ""
+            },
+            {
+              "text": "ପାର୍କିଂ ନାହିଁ |",
+              "image": ""
+            },
+            {
+              "text": "ଆଗରେ ଡାକ୍ତରଖାନା |",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "Stop",
+            "image": ""
+          }
+        },
+        {
+          "no": 3,
+          "question": {
+            "text": "ପ୍ର: କେଉଁ ଚିହ୍ନ ବନ୍ଦକୁ ସୂଚିତ କରେ?",
+            "image": "",
+            "traffic_sign": true
           },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-        },
-      },
-    ],
-  },
-  {
-    "Malayalam": [
-      {
-        "no": 1,
-        "question": {
-          "text": "ചോദ്യം. ഉത്തരവുകൾ നൽകുന്ന നിർബന്ധിത ചിഹ്നങ്ങൾ കൂടുതലും.",
-          "image": "",
-          "traffic_sign": false,
-        },
-        "options": [
-          {"text": "ചുവപ്പ് / നീല വൃത്തങ്ങൾ", "image": ""},
-          {"text": "ചുവന്ന ത്രികോണങ്ങൾ", "image": ""},
-          {"text": "അടിസ്ഥാന ത്രികോണങ്ങൾ", "image": ""},
-        ],
-        "answer": {"text": "ചുവപ്പ് / നീല വൃത്തങ്ങൾ", "image": ""},
-      },
-      {
-        "no": 2,
-        "question": {
-          "text": "ചോദ്യം. ഈ ചിഹ്നം പ്രതിനിധീകരിക്കുന്നു.",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
-          "traffic_sign": true,
-        },
-        "options": [
-          {"text": "നിർത്തുക", "image": ""},
-          {"text": "പാർക്കുചെയ്യരുത്", "image": ""},
-          {"text": "മുന്നിൽ ആശുപത്രി", "image": ""},
-        ],
-        "answer": {"text": "നിർത്തുക", "image": ""},
-      },
-      {
-        "no": 3,
-        "question": {
-          "text": "ചോദ്യം. നിർത്തുക എന്നതിന്റെ ചിഹ്നം എന്താണ്?",
-          "image": "",
-          "traffic_sign": true,
-        },
-        "options": [
-          {
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
             "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "Malayalam": [
+        {
+          "no": 1,
+          "question": {
+            "text": "ചോദ്യം. ഉത്തരവുകൾ നൽകുന്ന നിർബന്ധിത ചിഹ്നങ്ങൾ കൂടുതലും.",
+            "image": "",
+            "traffic_sign": false
           },
-          {
-            "text": "",
+          "options": [
+            {
+              "text": "ചുവപ്പ് / നീല വൃത്തങ്ങൾ",
+              "image": ""
+            },
+            {
+              "text": "ചുവന്ന ത്രികോണങ്ങൾ",
+              "image": ""
+            },
+            {
+              "text": "അടിസ്ഥാന ത്രികോണങ്ങൾ",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "ചുവപ്പ് / നീല വൃത്തങ്ങൾ",
+            "image": ""
+          }
+        },
+        {
+          "no": 2,
+          "question": {
+            "text": "ചോദ്യം. ഈ ചിഹ്നം പ്രതിനിധീകരിക്കുന്നു.",
             "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+            "traffic_sign": true
           },
-          {
-            "text": "",
-            "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png",
-          },
-        ],
-        "answer": {
-          "text": "",
-          "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png",
+          "options": [
+            {
+              "text": "നിർത്തുക",
+              "image": ""
+            },
+            {
+              "text": "പാർക്കുചെയ്യരുത്",
+              "image": ""
+            },
+            {
+              "text": "മുന്നിൽ ആശുപത്രി",
+              "image": ""
+            }
+          ],
+          "answer": {
+            "text": "നിർത്തുക",
+            "image": ""
+          }
         },
-      },
-    ],
-  },
-      
+        {
+          "no": 3,
+          "question": {
+            "text": "ചോദ്യം. നിർത്തുക എന്നതിന്റെ ചിഹ്നം എന്താണ്?",
+            "image": "",
+            "traffic_sign": true
+          },
+          "options": [
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img11.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+            },
+            {
+              "text": "",
+              "image": "https://heavenlife.github.io/RTO-Exam/images/img19.png"
+            }
+          ],
+          "answer": {
+            "text": "",
+            "image": "https://heavenlife.github.io/RTO-Exam/images/img1.png"
+          }
+        }
+      ],
+      "timestamp": "2023-11-15T12:00:00Z"
     }
-  },
-  "timestamp": "2023-11-15T12:00:00Z"
+  }
 }
